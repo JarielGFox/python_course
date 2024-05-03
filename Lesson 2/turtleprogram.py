@@ -35,7 +35,7 @@ for _ in range():
     turtonator.right(90)
     
         
-turtonator.write("Puppami la fava", True, align="right", font=("Arial", 16, "normal"))
+turtonator.write("Ciao a tutti!", True, align="right", font=("Arial", 16, "normal"))
 
 # Ora dobbiamo avere il mainloop attivo e la finestra rimarrà sempre attiva
 # loop infinito finche la finestra non viene chiusa
