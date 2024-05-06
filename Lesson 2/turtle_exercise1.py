@@ -1,3 +1,6 @@
+'''Scrivete un programma che disegna un quadrato, un esagono, un ottagono, un
+decagono. Tutti partendo dallo stesso punto, ma con colori diversi'''
+
 import turtle
 
 # Avviamo la finestra di lancio
