@@ -9,6 +9,7 @@ window = turtle.Screen()
 # Impostiamo il colore della finestra di gioco
 backgroundColor = window.bgcolor("black")
 
+# Istanziamo tre tartarughe
 turtleOne = turtle.Turtle()
 turtleTwo = turtle.Turtle()
 turtleThree = turtle.Turtle()
