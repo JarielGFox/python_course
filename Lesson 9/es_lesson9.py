@@ -35,3 +35,10 @@ def occorrenze(testo):
     return dizionarioCanto
 
 print(occorrenze(cantoCommedia))
+
+print('selva' in cantoCommedia)
+
+def find_index(testo, parola):
+    return testo.index(parola)
+
+print(find_index(cantoCommedia, 'selva'))
