@@ -1,0 +1,23 @@
+Nome: Pippo
+Cognome: Pluto
+Telefono: 123456789
+
+Nome: Paperino
+Cognome: Duck
+Telefono: 987654321
+
+Nome: Topolino
+Cognome: Mickey
+Telefono: 666666666
+
+Nome: Daisy
+Cognome: Duck
+Telefono: 555555555
+
+Nome: Scrooge
+Cognome: McDuck
+Telefono: 444444444
+
+Nome: Archibald
+Cognome: Duck
+Telefono: 333333333
